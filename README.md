@@ -15,7 +15,7 @@ Turn smartphone photos and screenshots of marked student **Maths** or **English*
   - **Live Notes** area on every card for typing reminders during the lesson.
   - **How It Works** quick guide modal in the top bar.
 - **Open for Tablet (A4 Pen-Tablet Whiteboard)**: Click **Open for tablet** on any card to open a pure white A4 sheet with the prompt and diagram pinned at the top, a pressure-sensitive stylus canvas below, an **Open in New Tab** link, and instant **Download PNG** / **Download JPG** export buttons.
-- **A4 Printing & Standalone HTML Export**: Click **Print Worksheet** to open a clean A4-paginated print tab with colours preserved, or click **Export HTML** to download a self-contained `.html` file.
+- **A4 Printing**: Click **Print Worksheet** to open a clean A4-paginated print tab with colours preserved.
 - **Resilient Quota & Fallback Handling**: Page-orientation checks run on `gemini-3.1-flash-lite` to preserve `gemini-4-hydrogen` quota, with automatic fallback to `gemini-3.1-flash-lite` if the Free Tier daily cap on the primary model is reached.
 
 ---
