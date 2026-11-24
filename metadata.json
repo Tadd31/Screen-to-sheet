@@ -1,0 +1,8 @@
+{
+  "name": "Screen To Sheet",
+  "description": "Built for online tutors, this workspace transforms uploaded photos of handwritten notes and marked exam papers into clean, structured cards. It preserves the student's working 100% verbatim alongside color-coded teacher feedback, adds diagnostic error tags and step-by-step model solutions, and includes live screen-sharing toggles (Hide/Reveal Answers, Blank Retake Mode, and editable lesson notes) with one-click A4 PDF printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
